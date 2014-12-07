@@ -1,0 +1,18 @@
+package model;
+
+public class Value {
+	
+	private double[] dtValue;
+	
+	public Value(int distance,int travel_time) {
+		dtValue = new double[] {distance,travel_time};
+	}
+	
+	public double getDistance() {
+		return dtValue[0];
+	}
+	
+	public double getTime() {
+		return dtValue[1];
+	}
+}

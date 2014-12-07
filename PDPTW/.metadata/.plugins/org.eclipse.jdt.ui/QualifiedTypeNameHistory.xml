@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="model.PD_Pairs"/>
+<fullyQualifiedTypeName name="java.util.HashMap"/>
+<fullyQualifiedTypeName name="java.io.File"/>
+<fullyQualifiedTypeName name="model.Value"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="java.util.Queue"/>
+<fullyQualifiedTypeName name="java.util.LinkedList"/>
+<fullyQualifiedTypeName name="java.util.Vector"/>
+<fullyQualifiedTypeName name="model.InsertionInformation"/>
+<fullyQualifiedTypeName name="model.Tabu"/>
+<fullyQualifiedTypeName name="model.VehicleProperty"/>
+<fullyQualifiedTypeName name="model.Customer"/>
+<fullyQualifiedTypeName name="model.Customers"/>
+<fullyQualifiedTypeName name="model.DTTable"/>
+<fullyQualifiedTypeName name="model.Key"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="model.Solution"/>
+<fullyQualifiedTypeName name="model.Route"/>
+</qualifiedTypeNameHistroy>

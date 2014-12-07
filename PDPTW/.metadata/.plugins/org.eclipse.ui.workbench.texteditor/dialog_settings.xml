@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item value="257" key="DIALOG_WIDTH"/>
+		<item value="98" key="DIALOG_Y_ORIGIN"/>
+		<item value="1100" key="DIALOG_X_ORIGIN"/>
+		<item value="380" key="DIALOG_HEIGHT"/>
+		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item value="true" key="wrap"/>
+		<item value="true" key="casesensitive"/>
+		<item value="false" key="isRegEx"/>
+		<item value="false" key="incremental"/>
+		<item value="false" key="wholeword"/>
+		<item value="" key="selection"/>
+		<list key="findhistory">
+			<item value="PDR"/>
+			<item value="Ob"/>
+			<item value="compare"/>
+			<item value="Sb"/>
+			<item value="pdr"/>
+			<item value="setRecord"/>
+			<item value="max"/>
+			<item value="min"/>
+		</list>
+		<list key="replacehistory">
+			<item value="s"/>
+			<item value="lastFinishServiceTime"/>
+			<item value="finishServiceTime"/>
+			<item value="delivery"/>
+			<item value="pickup"/>
+			<item value="insertPDPair"/>
+			<item value="this"/>
+			<item value="Customers.getSingleInstance()"/>
+		</list>
+	</section>
+</section>
